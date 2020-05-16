@@ -151,7 +151,7 @@
                 <td>   <img src="uptempo.jpg" height="150px" width="150px" alt="" /> </td> 
 				<td> <a href="?producto=Uptempo&precio=1700">Comprar</a></td>
             </tr>
-            <tr bgcolor="yellow">
+            <tr bgcolor="green">
                 <td> Air Max 1 </td>
                 <td>
                     En 1979 cuando Frank Rudy, inventor y antiguo trabajador de la NASA, fue contratado por Nike para desarrollar técnicas de amortiguación.
