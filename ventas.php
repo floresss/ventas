@@ -27,7 +27,7 @@
 
         <div  class="p-3 mb-2  text-white" align="center">
 
-            <h1>VENTAS MEMA</h1>
+            <h1>Nike Factory</h1>
 
         </div>
 
@@ -97,7 +97,7 @@
         <table border="1
 		
 		"  bgcolor="green">
-		<tr  bgcolor="purple">
+		<tr  bgcolor="white">
 		<td>NOMBRE</td>
 		<td>DESCRIPCION</td>
 		<td>PRODUCTO</td>
