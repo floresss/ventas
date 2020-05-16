@@ -96,7 +96,7 @@
     <div align="center" >
         <table border="1
 		
-		"  bgcolor="green">
+		"  bgcolor="white">
 		<tr  bgcolor="white">
 		<td>NOMBRE</td>
 		<td>DESCRIPCION</td>
