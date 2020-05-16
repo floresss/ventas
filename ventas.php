@@ -139,7 +139,7 @@
                 <td>   <img src="am97.jpg" height="150px" width="150px" alt="" /> </td>
 				  <td><a href="?producto=AM97&precio=2000">Comprar</a></td>
             </tr>
-            <tr bgcolor="purple">
+            <tr bgcolor="green">
                 <td> Nike More Uptempo </td>
                 <td>
                      Uptempo fue creada para jugadores que no encajaban en el molde de un guardia poderoso, e incluso no existía en los comienzos de los sneakers de Nike Basketball.
