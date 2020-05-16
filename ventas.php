@@ -130,9 +130,9 @@
             <tr bgcolor="green">
                 <td> Air Max 97 </td>
                 <td>
-                    Son las Nike que llevaba la Spice Girl deportista, las que promocionaba Carl Lewis, las que avanzaban con su tono brillante un nuevo milenio que después, es así, no fue para tanto.
+                    Son las Nike que llevaba la Spice Girl deportista, las que promocionaba Carl Lewis, las que avanzaban con su tono brillante un nuevo milenio que despues, es asi, no fue para tanto.
                     <br />
-                    Representan fielmente los últimos años 90.
+                    Representan fielmente los ultimos años 90.
                     <br />
                     Precio de Q2000.00
                 </td>
@@ -142,7 +142,7 @@
             <tr bgcolor="green">
                 <td> Nike More Uptempo </td>
                 <td>
-                     Uptempo fue creada para jugadores que no encajaban en el molde de un guardia poderoso, e incluso no existía en los comienzos de los sneakers de Nike Basketball.
+                     Uptempo fue creada para jugadores que no encajaban en el molde de un guardia poderoso, e incluso no existia en los comienzos de los sneakers de Nike Basketball.
                     <br />
                     Para todos aquellos jugadores en el medio, Uptempo.
                     <br />
@@ -151,10 +151,10 @@
                 <td>   <img src="uptempo.jpg" height="150px" width="150px" alt="" /> </td> 
 				<td> <a href="?producto=Uptempo&precio=1700">Agregar a carrito</a></td>
             </tr>
-            <tr bgcolor="sky blue">
+            <tr bgcolor="orange">
                 <td> Air Max 1 </td>
                 <td>
-                    En 1979 cuando Frank Rudy, inventor y antiguo trabajador de la NASA, fue contratado por Nike para desarrollar técnicas de amortiguación.
+                    En 1979 cuando Frank Rudy, inventor y antiguo trabajador de la NASA, fue contratado por Nike para desarrollar tecnicas de amortiguacion.
                     <br />
                     Pronto desarrolló lo que hoy conocemos como AIR, una unidad de aire en la suela de la zapatilla para amortiguar.
                     <br />
