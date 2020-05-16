@@ -20,7 +20,7 @@
 
     </head>
 
-    <body style="background: #265912">
+    <body style="background: #591255">
 
 
         <br />
@@ -127,7 +127,7 @@
                 <td>   <img src="aj1.jpg" height="150px" width="150px" alt="" /> </td> 
 				<td> <a href="?producto=AJ1&precio=1800">Comprar</a></td>
             </tr>
-            <tr bgcolor="purple">
+            <tr bgcolor="yellow">
                 <td> Air Max 97 </td>
                 <td>
                     Son las Nike que llevaba la Spice Girl deportista, las que promocionaba Carl Lewis, las que avanzaban con su tono brillante un nuevo milenio que después, es así, no fue para tanto.
@@ -151,7 +151,7 @@
                 <td>   <img src="uptempo.jpg" height="150px" width="150px" alt="" /> </td> 
 				<td> <a href="?producto=Uptempo&precio=1700">Comprar</a></td>
             </tr>
-            <tr bgcolor="purple">
+            <tr bgcolor="yellow">
                 <td> Air Max 1 </td>
                 <td>
                     En 1979 cuando Frank Rudy, inventor y antiguo trabajador de la NASA, fue contratado por Nike para desarrollar técnicas de amortiguación.
