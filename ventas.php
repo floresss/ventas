@@ -103,7 +103,7 @@
 		<td>PRODUCTO</td>
 		<td>AGREGAR CARRITO</td>
 		</tr>
-            <tr bgcolor="yellow">
+            <tr bgcolor="green">
                 <td> Air Force 1 </td>
                 <td>
                     Las Air Force 1 aparecieron por primera vez en 1982 y revolucionaron el mundo de las zapatillas. Fueron las primeras zapatillas de baloncesto con Nike Air, aunque desde entonces su naturaleza innovadora ha dejado paso a su estatus como icono del estilo urbano.
@@ -115,7 +115,7 @@
                 <td>   <img src="af1.jpg" height="150px" width="150px" alt="" /> </td>
 				<td><a href="?producto=AF1&precio=999">Comprar</a><td>
             </tr>
-            <tr bgcolor="purple">
+            <tr bgcolor="green">
                 <td> Air Jordan 1 </td>
                 <td>
                     Las Air Jordan I se diseñaron para Michael Jordan y aquello supuso muchos cambios. El primero, que por primera vez un jugador negro era la imagen de una marca tan grande como Nike.
@@ -127,7 +127,7 @@
                 <td>   <img src="aj1.jpg" height="150px" width="150px" alt="" /> </td> 
 				<td> <a href="?producto=AJ1&precio=1800">Comprar</a></td>
             </tr>
-            <tr bgcolor="yellow">
+            <tr bgcolor="green">
                 <td> Air Max 97 </td>
                 <td>
                     Son las Nike que llevaba la Spice Girl deportista, las que promocionaba Carl Lewis, las que avanzaban con su tono brillante un nuevo milenio que después, es así, no fue para tanto.
