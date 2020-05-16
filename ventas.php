@@ -103,7 +103,7 @@
 		<td>PRODUCTO</td>
 		<td>AGREGAR CARRITO</td>
 		</tr>
-            <tr bgcolor="purple">
+            <tr bgcolor="yellow">
                 <td> Air Force 1 </td>
                 <td>
                     Las Air Force 1 aparecieron por primera vez en 1982 y revolucionaron el mundo de las zapatillas. Fueron las primeras zapatillas de baloncesto con Nike Air, aunque desde entonces su naturaleza innovadora ha dejado paso a su estatus como icono del estilo urbano.
@@ -161,7 +161,7 @@
                     Precio de Q1200.00
                 </td>
                 <td>   <img src="am1.jpg" height="150px" width="150px" alt="" /></td>
-				<td> <a href="?producto=AM1&precio=1200" Comprar</a></td>
+				<td> <a href="?producto=AM1&precio=1200">Comprar</a></td>
             </tr>
 
         </table>
