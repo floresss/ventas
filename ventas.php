@@ -113,7 +113,7 @@
                     Precio de Q999.00
                 </td>
                 <td>   <img src="af1.jpg" height="150px" width="150px" alt="" /> </td>
-				<td><a href="?producto=AF1&precio=999">Comprar</a><td>
+				<td><a href="?producto=AF1&precio=999">Añadir a carrito</a><td>
             </tr>
             <tr bgcolor="green">
                 <td> Air Jordan 1 </td>
@@ -125,7 +125,7 @@
                     Precio de Q1800.00
                 </td>
                 <td>   <img src="aj1.jpg" height="150px" width="150px" alt="" /> </td> 
-				<td> <a href="?producto=AJ1&precio=1800">Comprar</a></td>
+				<td> <a href="?producto=AJ1&precio=1800">Añadir a carrito</a></td>
             </tr>
             <tr bgcolor="green">
                 <td> Air Max 97 </td>
@@ -137,7 +137,7 @@
                     Precio de Q2000.00
                 </td>
                 <td>   <img src="am97.jpg" height="150px" width="150px" alt="" /> </td>
-				  <td><a href="?producto=AM97&precio=2000">Comprar</a></td>
+				  <td><a href="?producto=AM97&precio=2000">Añadir a carrito</a></td>
             </tr>
             <tr bgcolor="green">
                 <td> Nike More Uptempo </td>
@@ -149,7 +149,7 @@
                     Precio de Q1700.00
                 </td>
                 <td>   <img src="uptempo.jpg" height="150px" width="150px" alt="" /> </td> 
-				<td> <a href="?producto=Uptempo&precio=1700">Comprar</a></td>
+				<td> <a href="?producto=Uptempo&precio=1700">Añadir a carrito</a></td>
             </tr>
             <tr bgcolor="green">
                 <td> Air Max 1 </td>
@@ -161,7 +161,7 @@
                     Precio de Q1200.00
                 </td>
                 <td>   <img src="am1.jpg" height="150px" width="150px" alt="" /></td>
-				<td> <a href="?producto=AM1&precio=1200">Comprar</a></td>
+				<td> <a href="?producto=AM1&precio=1200">Añadir a carrito</a></td>
             </tr>
 
         </table>
